@@ -22,4 +22,4 @@ function fullName({ firstName, lastName }) {
   return fullName.toUpperCase();
 }
 
-console.log(fullName({ lastName: 'jordan', firstName: 'peter' }));
+console.log(fullName({ lastName: "jordan", firstName: "peter" }));
